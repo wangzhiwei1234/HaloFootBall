@@ -1,0 +1,47 @@
+<resources>
+    <string-array name="weeks">
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+        <item>周日</item>
+    </string-array>
+
+    <string-array name="about_title">
+        <item>隐私说明</item>
+        <item>服务条款</item>
+        <item>支付协议</item>
+    </string-array>
+
+    <string-array name="invest_title">
+        <item>嗨币充值</item>
+        <item>会员充值</item>
+    </string-array>
+
+    <string-array name="category_title">
+        <item>热门</item>
+        <item>更新</item>
+        <item>新上</item>
+        <item>完结</item>
+    </string-array>
+
+    <string-array name="category_sort">
+        <item>hot</item>
+        <item>update</item>
+        <item>new</item>
+        <item>end</item>
+    </string-array>
+
+    <string-array name="sort_title">
+        <item>正序</item>
+        <item>倒序</item>
+    </string-array>
+
+    <string-array name="modify_sex">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+
+</resources>
